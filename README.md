@@ -1,16 +1,17 @@
 
-Johns Hopkins University Data Science
-# Project
+# Johns Hopkins University Data Science
+Week 4 Project Assignment 
+Kevin Jones
 
 Links
 
 Website:
 
-https://22i75u-s-xu.shinyapps.io/shinyproject/
+https://kevinjones.shinyapps.io/Week-4-MPG/
 
 Github:
+https://github.com/tacticalCoder/shiny-app-week-4-assignment
 
-https://github.com/lovelyxs/Shiny-Application-and-Reproducible-Pitch.git
 
 Presentation:
 
