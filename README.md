@@ -1,5 +1,21 @@
 
 Johns Hopkins University Data Science
+# Project
+
+Links
+
+Website:
+
+https://22i75u-s-xu.shinyapps.io/shinyproject/
+
+Github:
+
+https://github.com/lovelyxs/Shiny-Application-and-Reproducible-Pitch.git
+
+Presentation:
+
+https://rpubs.com/lovelyxs/850793
+
 
 # Developing Data Products Week 4 Course Project
 This peer assessed assignment has two parts. First, you will create a Shiny application and deploy it on Rstudio's servers. Second, you will use Slidify or Rstudio Presenter to prepare a reproducible pitch presentation about your application.
