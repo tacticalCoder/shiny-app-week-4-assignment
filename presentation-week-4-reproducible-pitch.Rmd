@@ -1,0 +1,44 @@
+---
+title: "Developing Data Product - Week 4 Assignment"
+author: "Kevin Jones"
+date: "8/14/2022"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Introduction
+
+This peer assessed assignment has two parts. First, you will create a Shiny application and deploy it on Rstudio's servers. Second, you will use Slidify or Rstudio Presenter to prepare a reproducible pitch presentation about your application.
+
+## Motor Trend Car Road Tests
+
+- The data was extracted from the 1974 Motor Trend US magazine, and comprises fuel consumption and 10 aspects of automobile design and performance for 32 automobiles (1973-74 models).
+
+
+## Analysis - Data Set
+
+```{r mtcars, echo = TRUE}
+library(datasets)
+head(mtcars, 3)
+```
+
+## Dataset Plot
+
+```{r}
+plot(mtcars)
+```
+
+## Links
+
+Website:
+
+https://kevinjones.shinyapps.io/Week-4-MPG/
+
+Github:
+
+https://github.com/tacticalCoder/shiny-app-week-4-assignment
+
+## Thanks for your time
